@@ -1,4 +1,4 @@
-FROM python:3.6-slim
+FROM alpine:3.5
 
 ENV PYTHONDONTWRITEBYTECODE 1
 
